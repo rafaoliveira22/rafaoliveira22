@@ -1,4 +1,6 @@
 ### Salve, eu sou o Rafa Oliveira 🤙
+<br>
+Tenho 16 anos e atualmente estou cursando o 3° Móudlo de Desenvolvimento de Sistemas na Etec Ermelinda
 
  <div>
   <a href="https://github.com/rafaoliveira22">
