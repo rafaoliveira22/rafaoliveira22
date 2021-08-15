@@ -1,5 +1,5 @@
 ### Salve, eu sou o Rafa Oliveira 🤙
-Tenho **16 anos** e atualmente estou cursando o 3° Móudlo de **Desenvolvimento de Sistemas** na Etec Ermelinda. Busco um estágio na área,tendo preferência em front-end web ou mobile com react native
+Tenho **16 anos** e atualmente estou cursando o 3° Móudlo de **Desenvolvimento de Sistemas** na Etec Ermelinda. Busco um estágio na área,tendo preferência em front-end web ou mobile com react native 😀🖥️
 
  <div>
   <a href="https://github.com/rafaoliveira22">
