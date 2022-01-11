@@ -1,5 +1,6 @@
 ### Salve, eu sou o Rafa Oliveira 🤙
-Tenho **16 anos** e atualmente estou cursando o 3° Móudlo de **Desenvolvimento de Sistemas** na Etec Ermelinda. Busco um estágio na área,tendo preferência em front-end web ou mobile com react native 😀🖥️
+Tenho **17 anos** e moro em Santana de Parnaíba. Há pouco tempo **me formei no ensino médio e conclui o curso de Desenvolvimento de Sistemas na Etec.** Atualmente sigo estudando na área de desenvolvimento,especificamente front end,como **HTML,CSS e JS**,visando me aperfeiçoar para ingressar numa empresa de desenvolvimento. 😀🖥️
+Para conhecer minha página,<a href="https://rafaoliveira22.github.io/perfil-portifolio/" target="_blank"><strong>Clique aqui</strong><a>
 
  <div>
   <a href="https://github.com/rafaoliveira22">
