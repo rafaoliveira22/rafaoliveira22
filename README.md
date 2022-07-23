@@ -1,6 +1,6 @@
 ### Salve, eu sou o Rafa Oliveira 🤙
 
-Para conhecer minha página <a href="https://rafaoliveira22.github.io/perfil-portifolio/" target="_blank"><strong> Clique aqui</strong><a>
+
 
  <div>
   <a href="https://github.com/rafaoliveira22">
