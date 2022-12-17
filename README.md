@@ -1,5 +1,5 @@
 ### Salve, eu sou o Rafa Oliveira 🤙
-
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaoliveira22&color=blue" alt="Profile views" /></p>
 
 
  <div>
