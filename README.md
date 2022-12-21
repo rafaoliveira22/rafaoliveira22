@@ -1,4 +1,6 @@
-### Salve, eu sou o Rafa Oliveira 🤙
+### Salve, eu sou o Rafa Oliveira 🤙🏼
+Cursando Análise e Desenvolvimento de Sistemas 👨🏻‍💻
+Estudando Python 🐍
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaoliveira22&color=blue" alt="Profile views" /></p> -->
 
 
