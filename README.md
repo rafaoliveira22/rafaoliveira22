@@ -6,15 +6,10 @@ Estudando Python 🐍
 
  <div>
   <a href="https://github.com/rafaoliveira22">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaoliveira22&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaoliveira22&layout=compact&langs_count=7&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaoliveira22&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaoliveira22&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
  
- <div>
-  <a href="https://github.com/patrickfer">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patrickfer&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickfer&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
   
 ## 🚀 Technologies
 <div style="display: inline_block"><br>
