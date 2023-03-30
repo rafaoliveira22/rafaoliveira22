@@ -1,5 +1,7 @@
 ### Salve, eu sou o Rafa Oliveira 🤙🏼
-Cursando Análise e Desenvolvimento de Sistemas 👨🏻‍💻
+<h2> 📚 Cursando Análise e Desenvolvimento de Sistemas</h2>
+<h3> 👨🏻‍💻 Estagiário de T.I desenvolvendo em JAVA e REACT Js </h3>
+<p> 😁 Fique a vontade para ver os meus projetos 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaoliveira22&color=blue" alt="Profile views" /></p> -->
 
 
