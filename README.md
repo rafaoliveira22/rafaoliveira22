@@ -1,6 +1,6 @@
  ### **Salve, eu sou o Rafa Oliveira** 🤙🏼 
  <p> 📚 Cursando Análise e Desenvolvimento de Sistemas </p>
- <p> 👨🏻‍💻 Estagiário de T.I desenvolvendo em JAVA e REACT JS </p>
+ <p> 👨🏻‍💻 Desenvolvedor de Software FullStack | Java | ReactJS </p>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaoliveira22&color=blue" alt="Profile views" /></p> -->
 
  
@@ -11,6 +11,7 @@
 </div>
   
 <div style="display: inline_block" align="center"><br>
+ <img align="center" alt="icon-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="icon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="icon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="icon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
