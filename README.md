@@ -1,6 +1,6 @@
  ### **Salve, eu sou o Rafa Oliveira** 🤙🏼 
  <p> 📚 Formado em Análise e Desenvolvimento de Sistemas </p>
- <p> 👨🏻‍💻 Desenvolvedor de Software FullStack | Java | Spring | ReactJS | MySQL </p>
+ <p> 👨🏻‍💻 Desenvolvedor de Software </p>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaoliveira22&color=blue" alt="Profile views" /></p> -->
 
  
