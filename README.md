@@ -1,7 +1,5 @@
  ### **Salve, eu sou o Rafa Oliveira** 🤙🏼 
- <p> 📚 Formado em Análise e Desenvolvimento de Sistemas </p>
- <p> 👨🏻‍💻 Desenvolvedor de Software </p>
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaoliveira22&color=blue" alt="Profile views" /></p> -->
+ <p> Sou um Desenvolvedor de Software com dois anos de experiência em desenvolvimento Fullstack, destacando-se em aplicações web por meio das tecnologias Java, ReactJs e MySQL.</p>
 
  
 <div align="center">
