@@ -1,12 +1,4 @@
  ### **Salve, eu sou o Rafa Oliveira** 🤙🏼 
- <p> Sou um Desenvolvedor de Software com dois anos de experiência em desenvolvimento Fullstack, destacando-se em aplicações web por meio das tecnologias Java, ReactJs e MySQL.</p>
-
- 
-<div align="center">
-  <a href="https://github.com/rafaoliveira22">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaoliveira22&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaoliveira22&layout=compact&langs_count=7&theme=cobalt2"/>
-</div>
   
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="icon-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
